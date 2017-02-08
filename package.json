@@ -7,7 +7,7 @@
     "socketio": "*"
   },
   "engines": {
-    "node": ">=6",
-    "npm": ">=3"
-  },
+    "node": "*",
+    "npm": "*"
+  }
 }
