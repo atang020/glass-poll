@@ -5,5 +5,9 @@
   "description": "my first socket.io app",
   "dependencies": {
     "socketio": "*"
-  }
+  },
+  "engines": {
+    "node": ">=6",
+    "npm": ">=3"
+  },
 }
